@@ -23,7 +23,9 @@ For beginners this is the great opportunity to dive in the pool of open source.
 
 **Rules To earn your Hacktoberfest reward.**
 >You must register and make four valid pull requests (PRs) between October 1-31 (in any time zone).
+
 >PRs can be made to any public repo on GitHub, only the ones with issues labeled Hacktoberfest.
+
 >If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
 
 ***Steps to Contribute to this Repo***
