@@ -27,16 +27,18 @@ For beginners this is the great opportunity to dive in the pool of open source.
 >If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
 
 ***Steps to Contribute to this Repo***
-
--Star this Repo (Important)
-   -_PR/MR will be ignored_
-
--Fork this repository.
-
--Repeated codes will not be merged.
-
--The quality of pull requests is paramount,quantity comes second.
+- First Star this Repo (Important)
+- Then Fork this Repo
 
 
 
--No programming language boundation.**
+
+
+
+- Repeated codes will not be merged.
+
+- The quality of pull requests is paramount,quantity comes second.
+
+
+
+- No programming language boundation.
