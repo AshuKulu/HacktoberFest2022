@@ -19,3 +19,24 @@ For beginners this is the great opportunity to dive in the pool of open source.
 >Hacktoberfest T-shirt👕/Tree🌱(Tree planted in your name and help make Hacktoberfest 2022 more carbon neutral)
 
 **Contribute to _AshuKulu/HacktoberFest2022_**
+
+
+**Rules To earn your Hacktoberfest reward.**
+>You must register and make four valid pull requests (PRs) between October 1-31 (in any time zone).
+>PRs can be made to any public repo on GitHub, only the ones with issues labeled Hacktoberfest.
+>If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
+
+***Steps to Contribute to this Repo***
+
+-Star this Repo (Important)
+   -_PR/MR will be ignored_
+
+-Fork this repository.
+
+-Repeated codes will not be merged.
+
+-The quality of pull requests is paramount,quantity comes second.
+
+
+
+-No programming language boundation.**
