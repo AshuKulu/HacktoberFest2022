@@ -1,0 +1,86 @@
+//Clock is Created, check working at - http://global-solutions.me/js-clock/
+<!Doctype html>
+<html lang='en'>
+
+<head>
+    <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>CLOCK</title>
+    <style>
+        body{
+            background-color:crimson;
+        }
+#clock {
+            margin: auto;
+            border: 2px solid black;
+            background: url(data:image/png;base64,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) no-repeat center;
+            border-radius: 50%;
+            width: 300px;
+            height: 300px;
+            position: relative;
+            margin: auto;
+            background-size: 100%;
+            transform-origin: bottom;
+            border-width: 3px;
+            border-color: blueviolet;
+            background-color: teal;
+        }
+        #hour,
+        #minute,
+        #second {
+            position: absolute;
+            background: black;
+            border-radius: 10px;
+            transform-origin: bottom;  
+        }
+        #hour {
+            width: 1.8%;
+            height: 23.8%;
+            top: 25%;
+            left: 48.85%;
+            background-color:blueviolet;
+        }
+        #minute {
+            width: 1%;
+            height: 30%;
+            top: 19%;
+            left: 48.9%;
+            background-color:aqua;
+        }
+        #second {
+            width: 0.5%;
+            height: 40%;
+            top: 9%;
+            left: 49.25%;
+            background-color:cadetblue;
+        }
+    </style>
+</head>
+<body>
+<h1 align="center">CLOCK</h1>
+    <div id="clock">
+        <div id="hour"></div>
+        <div id="minute"></div>
+        <div id="second"></div>
+    </div>
+    <script>
+        
+setInterval(()=> {
+        d = new Date(); //object of date()
+        hr = d.getHours();
+        min = d.getMinutes();
+        sec = d.getSeconds();
+        hr_rotation = 30*hr + min/2; //converting current time
+        min_rotation = 6*min;
+        sec_rotation = 6*sec;
+hour.style.transform = `rotate(${hr_rotation}deg)`;
+minute.style.transform = `rotate(${min_rotation}deg)`;
+second.style.transform = `rotate(${sec_rotation}deg)`;
+    },1000)
+
+    </script>
+</body>
+
+</html>
